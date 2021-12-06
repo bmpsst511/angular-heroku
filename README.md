@@ -1,3 +1,9 @@
+# This is a Netflix-clone project
+
+Refer Video : https://www.youtube.com/watch?v=54km9J4Wh9s
+
+
+---
 # Deploy to Heroku
 
 Create a new angular project
